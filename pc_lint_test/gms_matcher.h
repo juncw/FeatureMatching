@@ -465,7 +465,3 @@ inline void imresize(Mat &src, int height) {
 	int width = static_cast<int>(src.cols * 1.0 / ratio);
 	resize(src, src, Size(width, height));
 }
-
-
-
-
