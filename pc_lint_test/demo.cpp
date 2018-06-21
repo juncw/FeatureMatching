@@ -1,5 +1,6 @@
 // GridMatch.cpp : Defines the entry point for the console application.
 
+// ¿ªÊ¼
 //#define USE_GPU 
 #include "Header.h"
 #include "gms_matcher.h"
